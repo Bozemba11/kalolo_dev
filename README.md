@@ -1,4 +1,3 @@
-# kalolo_dev
 # 👋 Hi, I'm Carlos Peter Kalolo
 
 ```javascript
