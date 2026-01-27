@@ -1,2 +1,8 @@
 # kalolo_dev
-I'm a Full Stack Developer from Tanzania 🇹🇿, passionate about solving real-world problems through technology
+const developer = {
+  name: "Carlos Peter Kalolo",
+  role: "Full Stack Developer",
+  location: "Tanzania 🇹🇿",
+  passion: "Building smart solutions that make life simpler",
+  status: "Always learning, Simplicity Saves Strength"
+  }
