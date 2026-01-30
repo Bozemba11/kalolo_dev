@@ -1,1 +1,0 @@
-# Fedha Yako - Budget Tracker\n\nA Streamlit-based budget tracking application with ML predictions and voice input support.\n\n## Features\n- Expense tracking with categories\n- Voice input parsing\n- ML-based budget predictions\n- Interactive dashboard\n\n## Installation\n```bash\npip install -r requirements.txt\n```\n\n## Usage\n```bash\nstreamlit run app.py\n```
